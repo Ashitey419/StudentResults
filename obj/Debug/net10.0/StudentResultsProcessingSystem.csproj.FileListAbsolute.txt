@@ -1,0 +1,14 @@
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\bin\Debug\net10.0\StudentResultsProcessingSystem.exe
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\bin\Debug\net10.0\StudentResultsProcessingSystem.deps.json
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\bin\Debug\net10.0\StudentResultsProcessingSystem.runtimeconfig.json
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\bin\Debug\net10.0\StudentResultsProcessingSystem.dll
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\bin\Debug\net10.0\StudentResultsProcessingSystem.pdb
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\obj\Debug\net10.0\StudentResultsProcessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\obj\Debug\net10.0\StudentResultsProcessingSystem.AssemblyInfoInputs.cache
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\obj\Debug\net10.0\StudentResultsProcessingSystem.AssemblyInfo.cs
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\obj\Debug\net10.0\StudentResultsProcessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\obj\Debug\net10.0\StudentResultsProcessingSystem.dll
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\obj\Debug\net10.0\refint\StudentResultsProcessingSystem.dll
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\obj\Debug\net10.0\StudentResultsProcessingSystem.pdb
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\obj\Debug\net10.0\StudentResultsProcessingSystem.genruntimeconfig.cache
+C:\Users\HP USER\Desktop\StudentResultsProcessingSystem\obj\Debug\net10.0\ref\StudentResultsProcessingSystem.dll
